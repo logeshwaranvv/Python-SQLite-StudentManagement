@@ -1,5 +1,5 @@
 Explanation:
-SQLite Database: I am using an SQLite database to store the student information. The database is created (if it doesn’t exist) and includes columns for student_id, name, age, course, and grade.
+SQLite Database: I am using an SQLite database to store student information. The database is created (if it doesn’t exist) and includes columns for student_id, name, age, course, and grade.
 Functions: Each function serves a specific purpose:
 add_student(): Adds a new student to the database.
 view_students(): Displays all students.
